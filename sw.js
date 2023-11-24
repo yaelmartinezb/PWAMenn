@@ -5,7 +5,7 @@ const CACHE_NAME = 'v1_cache_YaelMtzPWA'
 var urlsToCache = [
     './',
     './css/style.css',
-    './img/menny.png',
+    './img/Menny.png',
     './img/1.png',
     './img/2.png',
     './img/3.png',
